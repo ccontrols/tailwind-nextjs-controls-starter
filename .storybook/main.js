@@ -5,14 +5,10 @@ module.exports = {
   siteUrl: 'https://tailwind-gatsby-controls-starter.netlify.app',
   pages: {
     story: {
-      tabs: [
+      tabs: {
         ...defaultBuildConfig.pages.story.tabs,
-        {
-          route: 'test',
-          title: 'Testing',
-          template: '@component-controls/pages/TestingPage',
-        },
-      ],
+        test: '@component-controls/pages/TestingPage',
+      },
     },
   },
 };
