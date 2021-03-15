@@ -1,22 +1,17 @@
 import React from 'react';
 import { GetStaticProps, GetStaticPaths } from 'next';
-import {
-  NextLayout,
-  store,
-  getHomePagesPaths,
-  getDocHomePage,
-} from '@component-controls/nextjs-plugin';
+import { NextLayout, getHomePagesPaths, getDocHomePage } from '@component-controls/nextjs-plugin';
 
 const DocHome: typeof NextLayout = (props) => <NextLayout {...props} />;
 
 export const getStaticPaths: GetStaticPaths = async () => ({
-  paths: getHomePagesPaths(store),
+  paths: getHomePagesPaths(),
   fallback: false,
 });
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const { doctype: basepath } = params as { doctype: string };
-  return { props: getDocHomePage(store, basepath) };
+  return { props: getDocHomePage(basepath) };
 };
 
 export default DocHome;
