@@ -1,6 +1,6 @@
-import { RunConfiguration } from '@component-controls/core';
+import { RuntimeConfiguration } from '@component-controls/core';
 
-const config: RunConfiguration = {
+const config: RuntimeConfiguration = {
   analytics: 'UA-XXXXXXXXX-X',
   title: `Tailwind component-controls`,
   description: `Tailwind project with typescript, react testing library and component-controls`,
