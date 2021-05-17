@@ -1,4 +1,3 @@
-/* eslint-disable import/no-unresolved */
 import React from 'react';
 import { Example, Document } from '@component-controls/core';
 
@@ -7,7 +6,9 @@ import { Button, ButtonProps } from './button';
 export default {
   title: 'Components/Button',
   component: Button,
-  argTypes: {},
+  smartControls: {
+    include: (control) => control.prop?.parentName === 'ButtonProps',
+  },
 } as Document;
 
 const Template: Example<ButtonProps> = (args) => <Button {...args}>Button Label</Button>;

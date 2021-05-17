@@ -1,28 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`button bound Template snapshot 1`] = `
-<DocumentFragment>
-  <button
-    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
-    type="button"
-  >
-    Button Label
-  </button>
-</DocumentFragment>
-`;
-
-exports[`button bound Template snapshot 2`] = `
-<DocumentFragment>
-  <button
-    class="rounded-md focus:outline-none focus:shadow-outline bg-green-500 text-white hover:bg-green-600 py-4 px-8"
-    type="button"
-  >
-    Button Label
-  </button>
-</DocumentFragment>
-`;
-
-exports[`button bound Template snapshot 3`] = `
+exports[`button bound Template 1 snapshot 1`] = `
 <DocumentFragment>
   <button
     class="rounded-md focus:outline-none focus:shadow-outline bg-yellow-500 text-white hover:bg-yellow-600 py-4 px-8"
@@ -33,29 +11,7 @@ exports[`button bound Template snapshot 3`] = `
 </DocumentFragment>
 `;
 
-exports[`button bound Template snapshot 4`] = `
-<DocumentFragment>
-  <button
-    class="rounded-md focus:outline-none focus:shadow-outline bg-red-500 text-white hover:bg-red-600 py-4 px-8"
-    type="button"
-  >
-    Button Label
-  </button>
-</DocumentFragment>
-`;
-
-exports[`button bound Template snapshot 5`] = `
-<DocumentFragment>
-  <button
-    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8 w-full"
-    type="button"
-  >
-    Button Label
-  </button>
-</DocumentFragment>
-`;
-
-exports[`button bound Template snapshot 6`] = `
+exports[`button bound Template 1 snapshot 2`] = `
 <DocumentFragment>
   <button
     class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
@@ -66,7 +22,359 @@ exports[`button bound Template snapshot 6`] = `
 </DocumentFragment>
 `;
 
-exports[`button bound Template snapshot 7`] = `
+exports[`button bound Template 1 snapshot 3`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-green-500 text-white hover:bg-green-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 1 snapshot 4`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 1 snapshot 5`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 1 snapshot 6`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 1 snapshot 7`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-green-500 text-white hover:bg-green-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 2`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 3`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-green-500 text-white hover:bg-green-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 4`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 5`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8 w-full"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 6`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 2 snapshot 7`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-green-500 text-white hover:bg-green-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 2`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-yellow-500 text-white hover:bg-yellow-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 3`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-red-500 text-white hover:bg-red-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 4`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 5`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 6`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 3 snapshot 7`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 2`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-yellow-500 text-white hover:bg-yellow-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 3`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-red-500 text-white hover:bg-red-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 4`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 5`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8 w-full"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 6`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 4 snapshot 7`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 2`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 3`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-green-500 text-white hover:bg-green-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 4`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-red-500 text-white hover:bg-red-600 py-4 px-8"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 5`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-4 px-8 w-full"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 6`] = `
+<DocumentFragment>
+  <button
+    class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
+    type="button"
+  >
+    Button Label
+  </button>
+</DocumentFragment>
+`;
+
+exports[`button bound Template 5 snapshot 7`] = `
 <DocumentFragment>
   <button
     class="rounded-md focus:outline-none focus:shadow-outline bg-primary-500 text-white hover:bg-primary-600 py-2 px-6"
